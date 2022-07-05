@@ -16,4 +16,4 @@ pynput==1.7.6
 pyparsing==3.0.9
 python-dateutil==2.8.2
 six==1.16.0
-tkinter==8.6
+Tcl/Tk=8.5
